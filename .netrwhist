@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/usr/local/Cellar/tee-clc/14.134.0/libexec'
+let g:netrw_dirhist_2='/Users/hcanadij/Projects/tribe'
